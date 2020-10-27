@@ -26,7 +26,6 @@
 - id: words
   translation: "Wörter"
 
-
 # 404 page
 - id: pageNotFound
   translation: "Ups, diese Seite existiert nicht. (404 Error)"
@@ -67,7 +66,7 @@
 - id: show
   translation: "Zeige"
 - id: comments
-  translation: "Kommentare" 
+  translation: "Kommentare"
 
 # Related posts
 - id: seeAlso

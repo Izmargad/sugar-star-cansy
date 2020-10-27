@@ -26,7 +26,6 @@
 - id: words
   translation: "단어"
 
-
 # 404 page
 - id: pageNotFound
   translation: "이런, 이 페이지를 찾을 수 없어요. (404 오류)"

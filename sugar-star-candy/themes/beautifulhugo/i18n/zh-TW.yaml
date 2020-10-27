@@ -26,7 +26,6 @@
 - id: words
   translation: "個字"
 
-
 # 404 page
 - id: pageNotFound
   translation: "哎呀呀，這個頁面不存在，去其他地方逛逛吧。 (404 錯誤)"
