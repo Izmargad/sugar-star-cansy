@@ -5,26 +5,30 @@ date: 2017-03-20
 tags: ["example", "photoswipe"]
 ---
 
-Beautiful Hugo adds a few custom shortcodes created by [Li-Wen Yip](https://www.liwen.id.au/heg/) and [Gert-Jan van den Berg](https://github.com/GjjvdBurg/HugoPhotoSwipe) for making galleries with [PhotoSwipe](http://photoswipe.com) . 
+Beautiful Hugo adds a few custom shortcodes created by [Li-Wen Yip](https://www.liwen.id.au/heg/) and [Gert-Jan van den Berg](https://github.com/GjjvdBurg/HugoPhotoSwipe) for making galleries with [PhotoSwipe](http://photoswipe.com) .
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" link="/img/hexagon.jpg" >}}
+  {{< figure thumb="-thumb" link="/img/neb.jpg" caption="NGC7000">}}
   {{< figure thumb="-thumb" link="/img/sphere.jpg" caption="Sphere" >}}
   {{< figure thumb="-thumb" link="/img/triangle.jpg" caption="Triangle" alt="This is a long comment about a triangle" >}}
+  
 {{< /gallery >}}
 
 <!--more-->
 ## Example
+
 The above gallery was created using the following shortcodes:
+
 ```
 {{</* gallery caption-effect="fade" */>}}
-  {{</* figure thumb="-thumb" link="/img/hexagon.jpg" */>}}
+  {{</* figure thumb="-thumb" link="/img/hhhh.png" */>}}
   {{</* figure thumb="-thumb" link="/img/sphere.jpg" caption="Sphere" */>}}
   {{</* figure thumb="-thumb" link="/img/triangle.jpg" caption="Triangle" alt="This is a long comment about a triangle" */>}}
 {{</* /gallery */>}}
 ```
 
 ## Usage
+
 For full details please see the [hugo-easy-gallery GitHub](https://github.com/liwenyip/hugo-easy-gallery/) page. Basic usages from above are:
 
 - Create a gallery with open and close tags `{{</* gallery */>}}` and `{{</* /gallery */>}}`
@@ -35,3 +39,12 @@ For full details please see the [hugo-easy-gallery GitHub](https://github.com/li
 - `{{</* gallery caption-effect="fade" */>}}` will fade in captions for all figures in this gallery instead of the default slide-up behavior
 - Many gallery styles for captions and hover effects exist; view the [hugo-easy-gallery GitHub](https://github.com/liwenyip/hugo-easy-gallery/) for all options
 - Note that this theme will load the photoswipe gallery theme and scripts by default, no need to load photoswipe on your individual pages
+
+Beautiful Hugo adds a few custom shortcodes created by [Li-Wen Yip](https://www.liwen.id.au/heg/) and [Gert-Jan van den Berg](https://github.com/GjjvdBurg/HugoPhotoSwipe) for making galleries with [PhotoSwipe](http://photoswipe.com) .
+
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" link="/img/neb.jpg" caption="NGC7000">}}
+  {{< figure thumb="-thumb" link="/img/sphere.jpg" caption="Sphere" >}}
+  {{< figure thumb="-thumb" link="/img/triangle.jpg" caption="Triangle" alt="This is a long comment about a triangle" >}}
+  
+{{< /gallery >}}
