@@ -1,2 +1,3 @@
 ## Welcome
-`Sugar Star Candy` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
+
+`Sugar Star Candy` is a playroom filled with snapshots of things I love. I blog about astronomy, programming, mathematics, music and illustration. Oh, I like maps and running too.
