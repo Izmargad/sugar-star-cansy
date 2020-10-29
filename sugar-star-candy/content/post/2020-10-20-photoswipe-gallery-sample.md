@@ -9,16 +9,6 @@ tags:
 ---
 My first ever image captured on SLOOH was of Caldwell 41 (Mel 25).
 
-{{< gallery caption-effect="fade" >}} 
-
-{{< figure thumb="-thumb" link="/img/hexagon.jpg" >}} 
-
-{{< figure thumb="-thumb" link="/img/sphere.jpg" caption="Sphere" >}} 
-
-{{< figure thumb="-thumb" link="/img/triangle.jpg" caption="Triangle" alt="This is a long comment about a triangle" >}} 
-
-{{< /gallery >}}
-
 {{< gallery caption-effect="fade" >}}
 {{< figure thumb="-thumb" link="/uploads/sun.png" caption="The Sun a ripe orange" >}}
 {{< figure thumb="-thumb" link="/uploads/m8.png" caption="The Candyfloss Lagoon" >}}
