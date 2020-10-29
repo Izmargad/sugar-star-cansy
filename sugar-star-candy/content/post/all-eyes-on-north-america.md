@@ -6,7 +6,7 @@ tags:
 - nebula
 - NGC7000
 image: "/uploads/neb.png"
-draft: true
+draft: false
 
 ---
 It's with awe and somehow a little sadness and a smile, that I share how, in 2020 science settled the controversy surrounding the distance to the North American Nebula. Amid uncertainty surrounding almost every aspect of our lives, with astonishing precision, the Gaia astrometry satellite shows the North America and Pelican nebulae lie 2,590 light years away.
