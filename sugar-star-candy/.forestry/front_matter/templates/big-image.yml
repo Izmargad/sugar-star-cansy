@@ -24,3 +24,8 @@ fields:
   - type: text
     name: desc
     label: desc
+- name: more_images
+  type: image_gallery
+  config: {}
+  label: More images
+  description: Add more eye candy here
