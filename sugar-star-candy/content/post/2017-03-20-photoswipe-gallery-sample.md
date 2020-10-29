@@ -11,7 +11,7 @@ I was more impressed with the picture of our Sun. I think my mind melt a little 
 
 {{< gallery caption-effect="fade" >}}
   {{< figure thumb="-thumb" link="/img/teide5-2020-09-25T103519UTC-Oj2UZY.png" caption="The Sun a ripe orange" >}}
-  {{< figure thumb="-thumb" link="/img/spheremel25_20200925_063435_0_6cgmiu_l.png" caption="Caldwell 41 (Mel 25)" >}}
+  {{< figure thumb="-thumb" link="/img/mel25_20200925_063435_0_6cgmiu_l.png" caption="Caldwell 41 (Mel 25)" >}}
   {{< figure thumb="-thumb" link="/img/m8_20201026_003702_0_cqa4i0_lrgb.png" caption="Lagoon Nebula M8" alt="Candyfloss inspired the name for the blog" >}}
 {{< /gallery >}}
 
