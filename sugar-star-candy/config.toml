@@ -65,25 +65,25 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     identifier = "samples"
-    name = "Samples"
+    name = "Topics"
     weight = 2
 
 [[menu.main]]
     parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
+    name = "All Eyes on America"
+    url = "post/all-eyes-on-north-america"
     weight = 1
 
 [[menu.main]]
     parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
+    name = "Oranges and Candyfloss"
+    url = "post/2020-10-20-photoswipe-gallery-sample"
     weight = 2
 
 [[menu.main]]
     parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
+    name = "Messier Marathon"
+    url = "post/messier-marathon"
     weight = 3
 
 [[menu.main]]
