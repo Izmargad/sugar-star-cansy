@@ -1,9 +1,10 @@
 ---
 title: To be
-subtitle: ... or not to be?
+subtitle: "... or not to be?"
 date: 2015-02-13
----
+draft: true
 
+---
 To be, or not to be--that is the question:
 Whether 'tis nobler in the mind to suffer
 The slings and arrows of outrageous fortune
