@@ -14,7 +14,7 @@ more_images: []
 ---
 _When the Pleiades fall, I wake looking for my goatskin bag to drink. When (the Pleiades) rise, I wake looking for cloth/clothes to wear. -_ A Tuareg Berber proverb
 
-When I was a little girl, my favourite stars were the three clear ones -- the belt of Orion. There were three sisters, up far in the sky. They reminded me of my own three sisters who were older and less interested in their baby sister. Summer evenings in the Southern Hemisphere, crickets and frogs on a warm summer evening. My mom and dad and I would sit, staring up at the heavens, we would switch all the lights off on the porch. We would hear the neighbour's TV, somewhere the themesong of Dallas or Dynasty or the A-Team jingled over and across to us and out toward the stars where the broadcast is certainly still floating on the light with Miss Elly and Larry Hagman. Where are they now?
+When I was a little girl, my favourite stars were the three clear ones -- the belt of Orion. There were three sisters, up far in the sky. They reminded me of my own three sisters who were older and less interested in their baby sister. Summer evenings in the Southern Hemisphere, crickets and frogs on a warm summer evening. My mom and dad and I would sit, staring up at the heavens, we would switch all the lights off on the porch. We would hear the neighbour's TV, somewhere the themesong of Dallas or Dynasty or the A-Team jingled over and across to us and out toward the stars where the analog broadcast propagating through space, with Miss Elly and Larry Hagman. Where are they now?
 
 It's 2020 and we have our own true villains in the world. JR Ewing meet Donald J. Trump. But this too shall pass. 
 
