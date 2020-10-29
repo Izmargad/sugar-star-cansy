@@ -1,4 +1,25 @@
 ---
 label: Observation with gallery
 hide_body: false
-fields: []
+fields:
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+  description: Title of the post
+- name: first_paragraph
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: First Paragraph
+  description: Introductory paragraph
+- name: gallery_of_images
+  type: image_gallery
+  config: {}
+  label: Gallery of images
+  description: Collection of photos
