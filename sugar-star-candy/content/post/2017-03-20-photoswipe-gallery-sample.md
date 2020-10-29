@@ -1,18 +1,37 @@
 ---
-title: Candyfloss and Oranges
+title: Photoswipe Gallery Sample
 subtitle: Making a Gallery
-date: 2020-10-29
-tags: ["messier", "nebulae"]
+date: 2017-03-20
+tags: ["example", "photoswipe"]
 ---
 
-My first ever image captured on SLOOH was of Caldwell 41 (Mel 25). I was figuring out how it all worked and clicked a few buttons, while viewing live footage. Only after a day, looking at images I captured of the Sun, with the Canary 5, did I realise I had snapped Caldwell 41.
-
-I was more impressed with the picture of our Sun. I think my mind melt a little like the wings of Icarus. I flew too close to something so immense. I imagined how explorers of old must've felt. This was different from looking at a PBS documentary or a BBC show. I took this photo, I observed.  
+Beautiful Hugo adds a few custom shortcodes created by [Li-Wen Yip](https://www.liwen.id.au/heg/) and [Gert-Jan van den Berg](https://github.com/GjjvdBurg/HugoPhotoSwipe) for making galleries with [PhotoSwipe](http://photoswipe.com) . 
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" link="/img/teide5-2020-09-25T103519UTC-Oj2UZY.png" caption="The Sun a ripe orange" >}}
-  {{< figure thumb="-thumb" link="/img/mel25_20200925_063435_0_6cgmiu_l.png" caption="Caldwell 41 (Mel 25)" >}}
-  {{< figure thumb="-thumb" link="/img/m8_20201026_003702_0_cqa4i0_lrgb.png" caption="Lagoon Nebula M8" alt="Candyfloss inspired the name for the blog" >}}
+  {{< figure thumb="-thumb" link="/img/hexagon.jpg" >}}
+  {{< figure thumb="-thumb" link="/img/sphere.jpg" caption="Sphere" >}}
+  {{< figure thumb="-thumb" link="/img/triangle.jpg" caption="Triangle" alt="This is a long comment about a triangle" >}}
 {{< /gallery >}}
 
-I later sent the photo of this massive orange fruit hanging in the sky as a birthday image to a very dear friend in the US. On the same date I captured inadvertently Caldwell 41, and in retrospect, it is so special that it deserves a special mention too.
+<!--more-->
+## Example
+The above gallery was created using the following shortcodes:
+```
+{{</* gallery caption-effect="fade" */>}}
+  {{</* figure thumb="-thumb" link="/img/hexagon.jpg" */>}}
+  {{</* figure thumb="-thumb" link="/img/sphere.jpg" caption="Sphere" */>}}
+  {{</* figure thumb="-thumb" link="/img/triangle.jpg" caption="Triangle" alt="This is a long comment about a triangle" */>}}
+{{</* /gallery */>}}
+```
+
+## Usage
+For full details please see the [hugo-easy-gallery GitHub](https://github.com/liwenyip/hugo-easy-gallery/) page. Basic usages from above are:
+
+- Create a gallery with open and close tags `{{</* gallery */>}}` and `{{</* /gallery */>}}`
+- `{{</* figure src="image.jpg" */>}}` will use `image.jpg` for thumbnail and lightbox
+- `{{</* figure src="thumb.jpg" link="image.jpg" */>}}` will use `thumb.jpg` for thumbnail and `image.jpg` for lightbox
+- `{{</* figure thumb="-small" link="image.jpg" */>}}` will use `image-small.jpg` for thumbnail and `image.jpg` for lightbox
+- All the [features/parameters](https://gohugo.io/extras/shortcodes) of Hugo's built-in `figure` shortcode work as normal, i.e. src, link, title, caption, class, attr (attribution), attrlink, alt
+- `{{</* gallery caption-effect="fade" */>}}` will fade in captions for all figures in this gallery instead of the default slide-up behavior
+- Many gallery styles for captions and hover effects exist; view the [hugo-easy-gallery GitHub](https://github.com/liwenyip/hugo-easy-gallery/) for all options
+- Note that this theme will load the photoswipe gallery theme and scripts by default, no need to load photoswipe on your individual pages
