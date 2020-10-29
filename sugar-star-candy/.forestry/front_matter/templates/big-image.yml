@@ -29,3 +29,5 @@ fields:
   config: {}
   label: More images
   description: Add more eye candy here
+pages:
+- sugar-star-candy/content/post/Messier Marathon.md
