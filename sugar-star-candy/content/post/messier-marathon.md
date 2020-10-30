@@ -1,5 +1,5 @@
 ---
-title: Messier Marthon
+title: Messier Marathon
 subtitle: Will you be famous for avoiding the comets or nebulae?
 date: 2020-10-28T22:00:00.000+00:00
 tags:
