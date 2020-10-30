@@ -1,6 +1,6 @@
 ---
 title: The Seven Sisters
-subtitle: TV Channels, heroes and villans
+subtitle: TV Channels, heroes and villains
 date: 2020-10-29T22:00:00+00:00
 tags:
 - m45
