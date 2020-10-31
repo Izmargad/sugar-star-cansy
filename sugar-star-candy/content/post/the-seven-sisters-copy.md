@@ -8,7 +8,6 @@ tags:
 - orion
 bigimg: []
 more_images: []
-draft: true
 
 ---
 > Brighter than our sun,  
