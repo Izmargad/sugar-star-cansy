@@ -8,26 +8,28 @@ gallery_of_images:
 - "/uploads/sun-thumb.png"
 
 ---
-Brighter than our sun,
+> _Brighter than our sun,_
+>
+> _Bright as the window beyond death,_
+>
+> _The light in the universe_
+>
+> _Cleans the eyes to stone._
+>
+> _They prayed for lives without visions,_
+>
+> _Free from visions but not blind._
+>
+> _They could only drone the prayer,_
+>
+> _They could not set it down._
+>
+> _And windows persisted,_
+>
+> _And the eyes turned stone._
+>
+> _They all had faces like statue Greeks,_
+>
+> _Marble and calm._
 
-Bright as the window beyond death,
-
-The light in the universe
-
-Cleans the eyes to stone.
-
-They prayed for lives without visions,
-
-Free from visions but not blind.
-
-They could only drone the prayer,
-
-They could not set it down.
-
-And windows persisted,
-
-And the eyes turned stone.
-
-They all had faces like statue Greeks,
-
-Marble and calm.
+_Leonard Cohen_ 
