@@ -4,7 +4,6 @@ first_paragraph: It’s just another star, but for us she means everything. It�
   sun. Intimidating and sometimes cruel. Here’s Leonard Cohen writing about the sun
   and love.
 gallery_of_images:
-- "/uploads/teide5-2020-09-25T132355UTC-RULsm5.png"
 - "/uploads/sun-thumb.png"
 
 ---
@@ -33,3 +32,5 @@ gallery_of_images:
 > _Marble and calm._
 
 _Leonard Cohen_ 
+
+![](/uploads/sun-thumb.png)
