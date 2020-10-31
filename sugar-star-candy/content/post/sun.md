@@ -5,6 +5,7 @@ first_paragraph: Itâ€™s just another star, but for us she means everything. Itâ€
   and love.
 gallery_of_images:
 - "/uploads/sun-thumb.png"
+draft: true
 
 ---
 > _Brighter than our sun,_
