@@ -20,6 +20,5 @@ first_paragraph: |-
 gallery_of_images:
 - "/uploads/teide5-2020-09-25T132355UTC-RULsm5.png"
 - "/uploads/sun-thumb.png"
-draft: true
 
 ---
