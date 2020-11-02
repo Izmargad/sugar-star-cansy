@@ -1,14 +1,16 @@
 ---
-title: Candyfloss and Oranges-(copy)
-subtitle: Making a Gallery
-date: 2020-10-29
+title: The Year 1054
+subtitle: Stories carved in stone
+date: 2020-11-01T22:00:00+00:00
 tags:
 - messier
 - nebulae
+- crab neubla
+- m1
 draft: true
 
 ---
-My first ever image captured on SLOOH was of Caldwell 41 (Mel 25).
+Let's start at the very beginning, shall we. The Crab Nebula, M1 in the Catalog.
 
 {{< gallery caption-effect="fade" >}}
 {{< figure thumb="-thumb" link="/uploads/sun.png" caption="The Sun a ripe orange" >}}
