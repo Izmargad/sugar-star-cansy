@@ -12,14 +12,14 @@ tags:
 This is the Crab Nebula Messier Object 1, it is not the best image out there, but bear with me, it was my first mission to visit this M1 and I am happy to add it to my SLOOH gallery. While you look at the Crab Nebula, travel back in time with me, only a thousand years or so. We set our time traveling machine’s dial to 1054, and we are going to the Sung dynasty in China.
 
 {{< gallery caption-effect="fade" >}}
-{{< figure thumb="-thumb" link="/uploads/m1_part-02.png" caption="Crab Nebula M1" >}}
+{{< figure thumb="-thumb" link="/uploads/m1_part-01.png" caption="Crab Nebula M1" >}}
 {{< figure thumb="-thumb" link="/uploads/m1_part-02.png" caption="Crab Nebula M1" >}}
 {{< figure thumb="-thumb" link="/uploads/m1_part-03.png" caption="Crab Nebula M1" >}}
 {{< /gallery >}}
 
 When we arrive some time in July of 1054, we see Yan Wei-te, (the Director of Astronomy) prostrated before the Chinese Emperor. He is tasked with the unfortunate burden to report the appearance of a “guest star” out of nowhere – this failure to have predicted the event could lead to public prosecution. The life of an astronomer in the Middle Ages was stressful.
 
-It is possible to pick up the disposition he was in from the style of his observation. It is written with clarity and sensitivity expected from a scientist, while he navigates and manages the political landscape and risk, as best he can. 
+It is possible to pick up the disposition he was in from the style of his observation. It is written with clarity and sensitivity expected from a scientist, while he navigates and manages the political landscape and risk, as best he can.
 
 > _I humbly observe that a guest star has appeared; above the star there is a feeble yellow glimmer. If one examines the divination regarding the Emperor, the interpretation \[of the presence of this guest star\] is the following: The fact that the star has not overrun Bi (a Chinese Constellation) and that its brightness must represent a person of great value. I demand that the Office of Historiography is informed of this."_
 >
