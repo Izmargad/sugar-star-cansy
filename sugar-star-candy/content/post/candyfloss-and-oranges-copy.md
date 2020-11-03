@@ -1,6 +1,6 @@
 ---
 title: What happened in 1054?
-subtitle: Let powerful men come and go
+subtitle: Let powerful men and women come and go
 date: 2020-11-02T22:00:00+00:00
 tags:
 - messier
