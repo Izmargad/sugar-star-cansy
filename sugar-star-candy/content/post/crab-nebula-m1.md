@@ -12,7 +12,7 @@ tags:
 This is the Crab Nebula Messier Object 1, it is not the best image out there, but bear with me, it was my first mission to visit this M1 and I am happy to add it to my SLOOH gallery. While you look at the Crab Nebula, travel back in time with me, only a thousand years or so. We set our time travelling machine’s dial to 1054, and we are going to the Sung dynasty.
 
 {{< gallery caption-effect="fade" >}}
-{{< figure thumb="-thumb" link="/uploads/m1_part-01.png" caption="Crab Nebula M1" >}}
+{{< figure thumb="-thumb" link="/uploads/m1_part-02.png" caption="Crab Nebula M1" >}}
 {{< figure thumb="-thumb" link="/uploads/m1_part-02.png" caption="Crab Nebula M1" >}}
 {{< figure thumb="-thumb" link="/uploads/m1_part-03.png" caption="Crab Nebula M1" >}}
 {{< /gallery >}}
