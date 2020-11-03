@@ -7,7 +7,6 @@ tags:
 - nebulae
 - crab neubla
 - m1
-draft: true
 
 ---
 This is the Crab Nebula Messier Object 1, it is not the best image out there, but bear with me, it was my first mission to visit this M1 and I am happy to add it to my SLOOH gallery. While you look at the Crab Nebula, travel back in time with me, only a thousand years or so. We set our time travelling machine’s dial to 1054, and we are going to the Sung dynasty.
@@ -26,6 +25,6 @@ It is possible to pick up the disposition he was in from the style of his observ
 
 I’ll refrain from commenting on the arrival or departure of “a person of great value”, in the context of the American Election which is taking place today. I want to mention that I find inspiration in the clear scientific observation that shines through beyond the political correctness of Yan Wei-te’s observation. The core of his observation is clear and concise, enough to have provided scientists with enough evidence to increase the plausibility that was eventually confirmed in 1942 beyond reasonable doubt that the Crab Nebula could be identified as the supernova remnant of the event Yan Wei-te observed and “so humbly” reported on.
 
-Men of importance come and go, it is however strangely comforting to know the clarity of scientific truth is classic and outlasts the whims of political ideology.
+Men (and women) of importance come and go, it is however strangely comforting to know the clarity of scientific truth is classic and outlasts the whims of political ideology.
 
 If you want to learn how to capture images and observations like this one, visit [slooh.com](https://www.slooh.com/ "slooh.com"). On Slooh, professional and amateur astronomers work and play together to make Astronomy accessible to everyone on planet Earth.
