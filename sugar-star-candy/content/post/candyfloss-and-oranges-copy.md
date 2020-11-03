@@ -13,8 +13,6 @@ This is the Crab Nebula Messier Object 1, it is not the best image out there, bu
 
 When we arrive some time in July of 1054, we see Yan Wei-te, (the Director of Astronomy) prostrated before the Chinese Emperor. He is tasked with the unfortunate burden to report the appearance of a “guest star” out of nowhere – this failure to have predicted the event could lead to public prosecution. The life of an astronomer in the Middle Ages was stressful.
 
-{{< gallery caption-effect="fade" >}} {{< figure thumb="-thumb" link="/uploads//uploads/m1_part-02.png" caption="The Crab Nebula" >}} 
-
 It is possible to pick up the disposition he was in from the style of his observation. It is written both beautiful and sensitive and he certainly manages the political risk as best he can, while his words are balanced beautifully with scientific clarity.
 
 > _I humbly observe that a guest star has appeared; above the star there is a feeble yellow glimmer. If one examines the divination regarding the Emperor, the interpretation \[of the presence of this guest star\] is the following: The fact that the star has not overrun Bi (a Chinese Constellation) and that its brightness must represent a person of great value. I demand that the Office of Historiography is informed of this."_
