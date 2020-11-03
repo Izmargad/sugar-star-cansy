@@ -11,6 +11,8 @@ tags:
 ---
 This is the Crab Nebula Messier Object 1, it is not the best image out there, but bear with me, it was my first mission to visit this M1 and I am happy to add it to my SLOOH gallery. While you look at the Crab Nebula, travel back in time with me, only a thousand years or so. We set our time travelling machine’s dial to 1054, and we are going to the Sung dynasty.
 
+{{< gallery caption-effect="fade" >}} {{< figure thumb="-thumb" link="/uploads/sun.png" caption="The Sun a ripe orange" >}} {{< figure thumb="-thumb" link="/uploads/m8.png" caption="The Candyfloss Lagoon" >}} {{< figure thumb="-thumb" link="/uploads/mel25.png" caption="Caldwell 41 (Mel 25)" >}} {{< /gallery >}}
+
 When we arrive some time in July of 1054, we see Yan Wei-te, (the Director of Astronomy) prostrated before the Chinese Emperor. He is tasked with the unfortunate burden to report the appearance of a “guest star” out of nowhere – this failure to have predicted the event could lead to public prosecution. The life of an astronomer in the Middle Ages was stressful.
 
 It is possible to pick up the disposition he was in from the style of his observation. It is written both beautiful and sensitive and he certainly manages the political risk as best he can, while his words are balanced beautifully with scientific clarity.
