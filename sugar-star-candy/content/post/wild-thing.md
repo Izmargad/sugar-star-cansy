@@ -1,24 +1,45 @@
 ---
-title: wild-thing
-subtitle: Making a Gallery
-date: 2020-10-29
+title: Never let it fade away
+subtitle: Always remember the young and brave
+date: 2020-11-05T22:00:00+00:00
 tags:
-- messier
-- nebulae
-draft: true
+- apollo
 
 ---
-My first ever image captured on SLOOH was of Caldwell 41 (Mel 25).
+My brother was a teenager in the sixties. He kept scrapbooks -- the 60s analogue version of Instagram and Facebook. The books were filled with profile pics and signatures of race car drivers, a collage of science and fiction, the stuff that inspired boys of his generation to become astronauts and race car drivers and conversely inspired tomboy sisters of my generation to dream and do and follow in their footsteps. I sleuthed through his treasures; newspaper clippings, popular science magazines, sketches of cars and foldouts of rockets and engines, 7”-single vinyl record collection. Roy Orbison sang about a _Pretty Women_, The Beach Boys called her _Barbara Ann_ and The Troggs made “everything groovy”.
 
-{{< gallery caption-effect="fade" >}}
-{{< figure thumb="-thumb" link="/uploads/sun.png" caption="The Sun a ripe orange" >}}
-{{< figure thumb="-thumb" link="/uploads/m8.png" caption="The Candyfloss Lagoon" >}}
-{{< figure thumb="-thumb" link="/uploads/mel25.png" caption="Caldwell 41 (Mel 25)" >}}
-{{< /gallery >}}
+{{< gallery caption-effect="fade" >}} {{< figure thumb="-thumb" link="/uploads/sb-01.png" caption="Scrapbooks of Cars" >}} {{< figure thumb="-thumb" link="/uploads/sb-02.png" caption="Newspaper clippings" >}} {{< figure thumb="-thumb" link="/uploads/sb-03.png" caption="Scrapbooks of Cars" >}} {{< /gallery >}}
 
-It was completely unintentional. I was still trying to figure out how it all worked. I clicked a few buttons, then embarked on my first quest and purposefully took a photo of our magnificent Sun. My mind melt a little like the wings of Icarus. I flew too close to something unimaginably immense. This was different from looking at a PBS documentary or a BBC show. I took this photo, I observed.
+One day, I found a fold-out in one of his magazines of the Apollo Program and entranced by the Project Apollo insignia, the Moon indeed hinted that I could explore beyond. Urged on by The Troggs begging, _“Come on, come on wild thing”_, I took a pair of scissors and defiled the collectable, crudely cutting around the edges of the insignia. There were things to discover, more magical even than an older brother’s scrapbook collection and he wasn’t around to stop me!
 
-As I scrolled through my photo roll I realised that I had also snapped Caldwell 41. My first image on SLOOH ever. I later sent the photo of this massive orange fruit hanging in the sky as a birthday image to a very dear friend in the US. In retrospect Caldwell 41, deserves some special mention too, how a fumbling, fool with an iPhone manage to capture albeit the nearest open cluster, well studied but still, 153 light-years away.
-A spherical group of hundreds of stars in the constellation of Taurus.
+![Apollo Program Insignia](/uploads/apollo-program-insignia.jpg "Apollo Program Insignia")
 
-I am young and foolish, forever trying to escape the gravity of everything serious. Play and learn, play and learn.
+I stapled the crudely cut Insignia to my jacket, put my brother’s crash helmet on and moon-walked across the green lawn.
+
+> _Catch a falling star and put it in your pocket, never let it fade away._
+
+My brother’s scrapbook entries abruptly stopped -- around the same time three brave men lost their lives in what was supposed to be the first manned Apollo Flight. Gus Grissom, Ed White and Roger Chaffee were conducting a simulation on the launch pad in Florida, when a flash fire broke out in their capsule. (Jan 1967).
+
+In March of 1967, NASA announced that the mission originally scheduled for Grissom, White and Chaffee would be known as Apollo 1. and the first Saturn V launch, scheduled for November 1967, would be known as Apollo 4. No missions or flights were ever designated Apollo 2 or 3.
+
+![Remembering Apollo 1](/uploads/apollo-01.jpg "Remembering Apollo 1")
+
+My brother wasn’t around to keep newspaper clippings, or foldouts, as he was tragically killed in a motorcycle accident on 25 March 1967.
+
+By the time I arrived on Earth, two years had passed since Apollo 11 and Neil Armstrong left footprints on the Moon.
+
+![Apollo 11](/uploads/apollo-11.jpg "Apollo 11")
+
+I still have my brother’s scrapbooks and he inspires me every day.
+
+> _Wild thing  
+> You make my heart sing  
+> You make everything groovy_
+>
+> \- _The Troggs 1965_
+
+Read more about the Apollo missions here:
+
+[Remembering Apollo 1](https://www.nasa.gov/mission_pages/apollo/apollo-1)
+
+[More Apollo Mission Patched (Insignia)]()
