@@ -6,7 +6,7 @@ tags:
 - apollo
 
 ---
-My brother was a teenager in the sixties. He kept scrapbooks -- the 60s analogue version of Instagram and Facebook. The books were filled with profile pics and signatures of race car drivers, a collage of science and fiction, the stuff that inspired boys of his generation to become astronauts and race car drivers and conversely inspired tomboy sisters of my generation to dream and do and follow in their footsteps. I sleuthed through his treasures; newspaper clippings, popular science magazines, sketches of cars and foldouts of rockets and engines, 7”-single vinyl record collection. Roy Orbison sang about a _Pretty Women_, The Beach Boys called her _Barbara Ann_ and The Troggs made “everything groovy”.
+My brother was a teenager in the sixties. He kept scrapbooks -- the 60s analogue version of Instagram and Facebook. The books were filled with profile pics and signatures of race car drivers, a collage of science and fiction, the stuff that inspired boys of his generation to become astronauts and race car drivers and conversely inspired tomboy sisters of my generation to dream and do and follow in their footsteps. I sleuthed through his treasures; newspaper clippings, popular science magazines, sketches of cars and foldouts of rockets and engines, his 7-inch 45rpm vinyl record collection. Roy Orbison sang about a _Pretty Women_, The Beach Boys called her _Barbara Ann_ and The Troggs made “everything groovy”.
 
 {{< gallery caption-effect="fade" >}} {{< figure thumb="-thumb" link="/uploads/sb-01.png" caption="Scrapbooks of Cars" >}} {{< figure thumb="-thumb" link="/uploads/sb-02.png" caption="Newspaper clippings" >}} {{< figure thumb="-thumb" link="/uploads/sb-03.png" caption="Scrapbooks of Cars" >}} {{< /gallery >}}
 
