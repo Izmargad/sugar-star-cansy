@@ -42,4 +42,4 @@ Read more about the Apollo missions here:
 
 [Remembering Apollo 1](https://www.nasa.gov/mission_pages/apollo/apollo-1)
 
-[More Apollo Mission Patched (Insignia)]()
+[https://solarsystem.nasa.gov/resources/2293/apollo-mission-patches/](https://solarsystem.nasa.gov/resources/2293/apollo-mission-patches/ "Apollo Mission Patches")
