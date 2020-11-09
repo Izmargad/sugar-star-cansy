@@ -15,7 +15,7 @@ I wish I were a tree, so I would count my years as rings hidden from the outside
 
 As a tree, I would not have to name things or write them down to remember. Everything would be perfectly stored in growth rings, I would be one with what I have become and have the perfect memories to prove it. Eventually I suppose, once felled or fallen, I may divulge all memories of environment and climate, else it would stay hidden and uncorrupted.
 
-I am not a tree, I look up at the heavens, I plot the journey of stars, I observe the moons of Saturn, commit their names to memory and trace the link between Phoebe and the corresponding orbiting ring. I make lists in notebooks, I learn and study and leave traces of what I experience outside of myself. I learn from traces other humans leave, I commit the names of Saturn’s moons to memory and marvel at its rings. I review how we have categorized those rings and in splendor named them.
+I am not a tree, I look up at the heavens, I plot the journey of stars, I observe the moons of Saturn, commit their names to memory and trace the link between Phoebe and the corresponding orbiting ring. I make lists in notebooks, I learn and study and leave traces of what I experience outside of myself. I learn from traces other humans leave, thus I marvel as I review how we have categorized the rings of Saturn and in equal splendor named them.
 
 ![](/uploads/agate-02.jpg)
 
