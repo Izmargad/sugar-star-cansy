@@ -19,6 +19,6 @@ I am not a tree, I look up at the heavens, I plot the journey of stars, I observ
 
 ![](/uploads/agate-02.jpg)
 
-I am not a tree, I don’t form geometric memories; my memories are imperfect. They tilt and twist and turn and fall apart under the heaviness of emotion. Alas we don’t count our years like trees. Perhaps we count our years in what we experience, what we see, hear, taste smell and interact with. Layer upon layer of story and interaction, those memories follow us, they are bound by us. Exposed, like the rings of Saturn not those of trees.
+I am not a tree, I don’t form geometric memories; my memories are imperfect. They tilt and twist and turn and fall apart under the heaviness of emotion. Alas we don’t count our years like trees. Perhaps we count our years in what we experience, what we see, hear, taste smell and interact with. Layer upon layer of story and interaction, those memories follow us, they are bound to us. Exposed, like the rings of Saturn, not those of trees.
 
 ![Saturn ](/uploads/saturn_20201104_010743_0_c1s1d3_rgb.png "Saturn observed with Slooh on 4 November 2020")
