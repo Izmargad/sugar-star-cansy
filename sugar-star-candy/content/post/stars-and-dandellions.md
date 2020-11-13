@@ -21,7 +21,9 @@ Because the stars in M7 were all born at roughly the same time, they have the sa
 
 ![](/uploads/m7-diamond-thumb.png)
 
-As the stars in the M7 Cluster age, the brightest of those diamonds in the tail of Scorpio will violently explode as supernovae. Eventually the remaining faint stars will slowly drift apart, they will barely be recognizable as a cluster. 
+As the stars in the M7 Cluster age, the brightest of those diamonds in the tail of Scorpio will violently explode as supernovae. Eventually the remaining faint stars will slowly drift apart, they will barely be recognizable as a cluster.
+
+![Dandelion spent seed head ](/uploads/deef67e7-243e-4d1e-be11-1e8bd6077e92.jpeg "Dandelion gone nova")
 
 You can read more about the fascinating world of dandelions here:
 
