@@ -4,8 +4,6 @@ subtitle: Diamonds in the tail of a scorpion
 date: 2020-11-12T22:00:00+00:00
 tags: []
 bigimg:
-- src: ''
-  desc: ''
 - src: "/uploads/m7-diamond-thumb.png"
   desc: The diamonds in the tail of the scorpio
 more_images: []
