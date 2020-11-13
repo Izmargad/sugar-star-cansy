@@ -1,5 +1,5 @@
 ---
-title: Stars and Dandellions
+title: Stars and Dandelions
 subtitle: Diamonds in the tail of a scorpion
 date: 2020-11-12T22:00:00+00:00
 tags: []
