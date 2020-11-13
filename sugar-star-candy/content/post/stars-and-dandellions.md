@@ -31,6 +31,6 @@ You can read more about the fascinating world of dandelions here:
 
 [https://qz.com/1428565/physicists-discover-new-form-of-flight-thanks-to-dandelion-seeds/](https://qz.com/1428565/physicists-discover-new-form-of-flight-thanks-to-dandelion-seeds/ "Flights of fancy")
 
-If you want to take pictures of stars and planets, visit [www.slooh.com](https://sugarstarcandy.space/post/stars-and-dandellions/)
+If you want to take pictures of stars and planets, visit [slooh.com](https://www.slooh.com/NewDashboard "slooh.com")
 
 Slooh is where amateur and professional astronomers alike, help, play and learn about the wonders of the cosmos.
