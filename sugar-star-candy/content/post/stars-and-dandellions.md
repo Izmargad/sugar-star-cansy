@@ -9,19 +9,19 @@ bigimg:
 more_images: []
 
 ---
-Today I observed a dandelion, stalked by the midday sun, its star-cluster head intact, deceptively simple, because astonishingly each of the seeds in the crowned head, can have a different genetic makeup. I playfully map imaginary constellations, tracing starry pin-pricks of seed points, geocentric simplicity in a contained Ptolemaic cosmos of a single home to hundreds of individual flowers.
+Today I observed a dandelion, stalked by the midday sun, its star-cluster head intact and deceptively simple, because astonishingly each of the seeds in the crowned head, can have a different genetic makeup. I playfully map imaginary constellations, tracing starry pin-pricks of seed points. A geocentric simplicity in a contained Ptolemaic cosmos -- home to hundreds of individual flowers.
 
 ![The seedhead of a simple dandelion](/uploads/dandellion.jpg "Cluster of seeds of the Dandelion")
 
-A 1000 light years from the dandelion in my garden hangs an arrangement of about 80 or 100 stars in an open cluster. It is believed to be about 220 million years old and observed, catalogued and described by Claudius Ptolemy in the 2nd century, as Object Number 567 in his Almagest – the “nebula following the sting of Scorpius”. In 1764 Charles Messier catalogued this cluster as M7, and it’s with this catalogue in hand that I map my nightly missions across space with Slooh.
+A 1000 light years from the dandelion in my garden hangs an arrangement of about 80 or 100 stars in an open cluster. It is believed to be about 220 million years old and observed, catalogued and described by Claudius Ptolemy in the 2nd century as Object Number 567 in his Almagest – the “nebula following the sting of Scorpius”. In 1764 Charles Messier catalogued this cluster as M7, and it’s with this catalogue in hand that I map my nightly missions across space with Slooh.
 
 ![](/uploads/messier7-thumb.png)
 
-Because the stars in M7 were all born at roughly the same time, they have the same chemical composition and are as precious as the diamonds they resemble to scientists studying stellar evolution and structure. With wonder I ponder and exaggerate the sameness of stars in a cluster 25 light-years in diameter and the diversity in the in the dome of a dandelion seed-head.
+Because the stars in M7 were all born at roughly the same time, they have the same chemical composition and are as precious as the diamonds they resemble to scientists studying stellar evolution and structure. With wonder I ponder and exaggerate the sameness of stars in a cluster 25 light-years in diameter and the diversity in the dome of a dandelion seed-head.
 
 ![](/uploads/m7-diamond-thumb.png)
 
-As the stars in the M7 cluster age, the brightest of those diamonds in the tail of Scorpio will violently explode as supernovae. Eventually the remaining faint stars will slowly drift apart, they will barely be recognizable as a cluster.
+As the stars in the M7 Cluster age, the brightest of those diamonds in the tail of Scorpio will violently explode as supernovae. Eventually the remaining faint stars will slowly drift apart, they will barely be recognizable as a cluster. 
 
 You can read more about the fascinating world of dandelions here:
 
