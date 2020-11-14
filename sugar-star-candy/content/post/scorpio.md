@@ -1,39 +1,30 @@
 ---
-title: scorpio
-subtitle: Diamonds in the tail of a scorpion
+title: Of Sun Signs and True Loves
+subtitle: Diamonds in the tail of a Scorpion
 date: 2020-11-12T22:00:00+00:00
 tags: []
 bigimg:
 - src: "/uploads/m7-diamond-thumb.png"
   desc: The diamonds in the tail of the scorpio
 more_images: []
-draft: true
 
 ---
-Today I observed a dandelion, stalked by the midday sun, its star-cluster head intact and deceptively simple, because astonishingly each of the seeds in the crowned head, can have a different genetic makeup. I playfully map imaginary constellations, tracing starry pin-pricks of seed points. A geocentric simplicity in a contained Ptolemaic cosmos -- home to hundreds of individual flowers.
+Like any well respected middle-class family in the 70s, we had _Linda Goodman’s Sun Signs_ on our bookshelf. I loved the Pan Macmillan dust cover. Neither my parents nor siblings held firm believes over star signs and the supposed influence on personality and life-paths. The book made it to our shelf, testament to Mom who followed the book columns in the local press and for that matter her heart, because we had Colleen McCullough’s Thornbirds in our collection too! And it was only a matter of, well _"time"_ before Hawking’s “A Brief History…” joined Carl Sagan’s _Cosmos_. Judging by the books in our modest, yet eclectic family library, we were well on our way to interpret and comment on a polarized world about to tear itself apart in the 21st century.
 
-![The seedhead of a simple dandelion](/uploads/dandellion.jpg "Cluster of seeds of the Dandelion")
+![Linda Goodman's Sun Signs](/uploads/lindasunsigns.jpg "Linda Goodman's Sun Signs")
 
-A 1000 light years from the dandelion in my garden hangs an arrangement of about 80 or 100 stars in an open cluster. It is believed to be about 220 million years old and observed, catalogued and described by Claudius Ptolemy in the 2nd century as Object Number 567 in his Almagest – the “nebula following the sting of Scorpius”. In 1764 Charles Messier catalogued this cluster as M7, and it’s with this catalogue in hand that I map my nightly missions across space with Slooh.
+Linda Goodman’s Sun Signs became a placeholder for me to map new friends and family to. “It is aunt Marie’s birthday tomorrow”, mom would exclaim, and I would more often than I’d like to admit plot their birth-date to where they fit in the cosmos according to Linda Goodman.
 
-![](/uploads/messier7-thumb.png)
+Until 1978 I did not know any people born under the Scorpio Sun Sign. But then things changed, my sister started dating a scrawny “Scorpion”, born on November 13. I instantly claimed my sister’s new boyfriend as my best friend. He knew everything about Lego, electronics and things called computers and Space! We watched Buck Rogers together and he was so much fun to be around. He taught me chess, we play-wrestled, he made me do push-ups until my arms and shoulders hurt and showed me his ninja stars and "nunchaks", but I secretly thought he was way cooler than Bruce Lee.
 
-Because the stars in M7 were all born at roughly the same time, they have the same chemical composition and are as precious as the diamonds they resemble to scientists studying stellar evolution and structure. With wonder I ponder and exaggerate the sameness of stars in a cluster 25 light-years in diameter and the diversity in the dome of a dandelion seed-head.
+![](/uploads/lee.jpg)
 
-![](/uploads/m7-diamond-thumb.png)
+I was 7 and he was 18 when he started dating my sister and I was 10 or 11 when he became my brother-in-law. Even then it was clear -- he held a firm belief that any girl could achieve what boys can. He sold me science and literally instructed my dad to buy me my first computer. Thank You. I was headstrong and I remember how I refused to listen to my parents and sisters when I was instructed to remove spider-webs of mascara, lipstick and lip-gloss from my face. But when _he_ said that I was beautiful enough and did not need all the makeup at 10. I listened. As a matter of fact he was so convincing that I decided to ditch the idea of wearing makeup for good.
 
-As the stars in the M7 Cluster age, the brightest of those diamonds in the tail of Scorpio will violently explode as supernovae. Eventually the remaining faint stars will slowly drift apart, they will barely be recognizable as a cluster.
+![Only Wilma wears make-up](/uploads/buck-rogers.jpg "No make-up needed Izzi, that's for Wilma Deering")
 
-![Dandelion spent seed head ](/uploads/deef67e7-243e-4d1e-be11-1e8bd6077e92.jpeg "Dandelion gone nova")
+We grew a little apart as years flowed on, no doubt caught in vortices of work and culture and surviving in a polarized world that pins us at opposing ends – my brother-in-law: the so-called privileged white male, and on the flip-side, there’s me, female-gender-queer and deeply and disturbingly for most _unclassifiable_. 
 
-You can read more about the fascinating world of dandelions here:
+![Diamonds in the tail of Scorpio](/uploads/m7-diamond-thumb.png "M7 Diamonds in the tail of Scorpio")
 
-> _Each unit of a dandelion is actually home to hundreds of individual flowers clustered together. Because dandelions can reproduce both sexually (through pollination) and asexually, every seed emerging from a dandelion’s head can have a different genetic makeup._
-
-[https://www.pbs.org/wgbh/nova/article/dandelion-seed-flight/](https://www.pbs.org/wgbh/nova/article/dandelion-seed-flight/ "https://www.pbs.org/wgbh/nova/article/dandelion-seed-flight/")
-
-[https://qz.com/1428565/physicists-discover-new-form-of-flight-thanks-to-dandelion-seeds/](https://qz.com/1428565/physicists-discover-new-form-of-flight-thanks-to-dandelion-seeds/ "Flights of fancy")
-
-If you want to take pictures of stars and planets, visit [slooh.com](https://www.slooh.com/NewDashboard "slooh.com")
-
-Slooh is where amateur and professional astronomers alike, help, play and learn about the wonders of the cosmos.
+But, just as I cannot be bothered to believe the drivel astrologers claim to assign to people born under some star sign. Or the unverified claims held of people who are not the same as us, I am headstrong and unapologetic and will not allow myself to be discriminated against and will fight with equal fervor those who discriminate against me and those who seek to vilify men like my brother in law, I am eternally grateful for him. The sting in his tail, is filled with diamonds and wonder and he is precious to me. Happy 60th journey around our Star, Pieter. Thank You, for everything.
