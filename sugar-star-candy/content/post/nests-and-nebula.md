@@ -1,46 +1,27 @@
 ---
-title: nests-and-nebula
-subtitle: Always remember the young and brave
-date: 2020-11-05T22:00:00+00:00
+title: A Nest full of Stars
+subtitle: 'Weavers Nests, Cocoons and Nebulae '
+date: 2020-11-18T22:00:00+00:00
 tags:
-- apollo
-draft: true
+- nebula
+- emission nebula
+- cape weavers
 
 ---
-My brother was a teenager in the sixties. He kept scrapbooks -- the 60s analogue version of Instagram and Facebook. The books were filled with profile pics and signatures of race car drivers, a collage of science and fiction, the stuff that inspired boys of his generation to become astronauts and race car drivers and conversely inspired tomboy sisters of my generation to dream and do and follow in their footsteps. I sleuthed through his treasures; newspaper clippings, popular science magazines, sketches of cars and foldouts of rockets and engines, his 7-inch 45rpm vinyl record collection. Roy Orbison sang about a _Pretty Women_, The Beach Boys called her _Barbara Ann_ and The Troggs made “everything groovy”.
+I observe two nurseries hanging in the sky outside my window. Vastly different, yet shrouded in equal mystery as both still hold on to secrets, rewarding the brave and patient, those who unravel the cosmos in systematic and careful observations from one data point the next. My own observations are sporadic and impulsive, I look up and outside -- the first nursery sways about 10 feet away from me, a bulbous bunch of nests, expertly woven in the wind, home to Cape Weavers who we’ve shared our garden with for almost 5 years now. The green braids of grass, fading to brown within days in the ultraviolet rays of the sun.
 
-{{< gallery caption-effect="fade" >}} {{< figure thumb="-thumb" link="/uploads/sb-01.png" caption="Scrapbooks of Cars" >}} {{< figure thumb="-thumb" link="/uploads/sb-02.png" caption="Newspaper clippings" >}} {{< figure thumb="-thumb" link="/uploads/sb-03.png" caption="Scrapbooks of Cars" >}} {{< /gallery >}}
+{{< gallery caption-effect="fade" >}} {{< figure thumb="-thumb" link="/uploads/m42.png" caption="Orion Nebula" >}} {{< figure thumb="-thumb" link="/uploads/open-mouth.png" caption="Young Baby Birds" >}} {{< figure thumb="-thumb" link="/uploads/vink-nes.png" caption="Weaver Nests" >}} {{< /gallery >}}
 
-One day, I found a fold-out in one of his magazines of the Apollo Program and entranced by the Project Apollo insignia, the Moon indeed hinted that I could explore beyond. Urged on by The Troggs begging, _“Come on, come on wild thing”_, I took a pair of scissors and defiled the collectable, crudely cutting around the edges of the insignia. There were things to discover, more magical even than an older brother’s scrapbook collection and he wasn’t around to stop me!
+The second nursery, hangs outside my window, about 1400 light years away. It is the Orion Nebula, and this candy-coloured cocoon announces the birthplace of about a thousand stars. My human eye has collaborated with light and atoms to weave shades of red and pink with some hues of purple and blue shaping this marvellous emission nebula.
 
-![Apollo Program Insignia](/uploads/apollo-program-insignia.jpg "Apollo Program Insignia")
+Allow me to break it down for you, the birth of baby birds, the fading of grass and the chemical process of ionization that colours and shapes our observations of places and spaces of births.
 
-I stapled the crudely cut Insignia to my jacket, put my brother’s crash helmet on and moon-walked across the green lawn.
+The Orion Nebula is classified as an emission nebula. These are huge clouds of ionized gas that emit their own light, in the same way that a neon light glows. This happens as young hot stars emit high energy ultraviolet photons (light). As the young stars shine so bright, their UV photons mingle with hydrogen atoms that are found in abundance. This connection and reaction, causes the hydrogen atoms to undergo changes in their state, they move from a neutral state, to an excited state, back to a lower energy state again all the while emitting tiny packets of light at a wavelength in the red end of the spectrum. This emission, weaves strips of candy coloured red and pink hues like giant cocoons where young stars live. How beautiful is that?
 
-> _Catch a falling star and put it in your pocket, never let it fade away._
+Closer to home again, the weavers’ nests turn brown against the blue sky, our sun gives life and as evening gets closer and the sun begins to set, I hear and see pleas of hungry baby weavers eager to get fed. Later still, the dark further saturates and I look up to where Orion’s Belt and Sword hangs, I draw a line to where it ends and find the Orion Nebula (M42), eagerly emitting and splendid.
 
-My brother’s scrapbook entries abruptly stopped -- around the same time three brave men lost their lives in what was supposed to be the first manned Apollo Flight. Gus Grissom, Ed White and Roger Chaffee were conducting a simulation on the launch pad in Florida, when a flash fire broke out in their capsule. (Jan 1967).
+All things considered, life is an immense chemical reaction, from the faded brown nest swaying against a sky, to the red and pink hues of nebulae. To fully appreciate it we too, need to stay open to all possibilities, to mingle freely, to interact and allow chemical bonds to form and break. Life and death lay equal claim to our minds and hearts. There is so much life to be found inside what appears from the outside to have faded, really, we need to consider the beauty in the unlikeliest places. Prepare to be surprised. When we, like atoms are moved and energised we begin to transfer energy to matter and become fully alive. Always consider the beauty. Always.
 
-In March of 1967, NASA announced that the mission originally scheduled for Grissom, White and Chaffee would be known as Apollo 1. and the first Saturn V launch, scheduled for November 1967, would be known as Apollo 4. No missions or flights were ever designated Apollo 2 or 3.
+To explore the skies, join us on Slooh, where amateur and professional astronomers join in learning, exploring and teaching.
 
-![Remembering Apollo 1](/uploads/apollo-01.jpg "Remembering Apollo 1")
-
-My brother wasn’t around to keep newspaper clippings, or foldouts, as he was tragically killed in a motorcycle accident on 25 March 1967.
-
-By the time I arrived on Earth, two years had passed since Apollo 11 and Neil Armstrong left footprints on the Moon.
-
-![Apollo 11](/uploads/apollo-11.jpg "Apollo 11")
-
-I still have my brother’s scrapbooks and he inspires me every day.
-
-> _Wild thing  
-> You make my heart sing  
-> You make everything groovy_
->
-> \- _The Troggs 1965_
-
-Read more about the Apollo missions here:
-
-[Remembering Apollo 1](https://www.nasa.gov/mission_pages/apollo/apollo-1)
-
-[Apollo Mission Patches](https://solarsystem.nasa.gov/resources/2293/apollo-mission-patches/ "Apollo Mission Patches")
+On [Slooh](http://www.slooh.com "Slooh"), you can join quests and learn more about Emission Nebulae and other types of Nebulae, such as Reflection, Dark Nebulae and Planetary Nebulae.
