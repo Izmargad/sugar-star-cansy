@@ -1,37 +1,30 @@
 ---
-title: antares
-subtitle: In darkness we sense light brighter than the sun
-date: 2020-10-30T22:00:00.000+00:00
+title: A Bried Diversion
+subtitle: ''
+date: 2020-11-27T22:00:00+00:00
 tags:
 - poetry
-- cohen
-- orion
 bigimg: []
 more_images: []
 draft: true
 
 ---
-> Brighter than our sun,  
-> Bright as the window beyond death,  
-> The light in the universe  
-> Cleans the eyes to stone.  
->   
-> They prayed for lives without visions,  
-> Free from visions but not blind.  
-> They could only drone the prayer,  
-> They could not set it down.  
->   
-> And windows persisted,  
-> And the eyes turned stone.  
-> They all had faces like statue Greeks,  
-> Marble and calm.  
->   
-> And what happened to love  
-> In the gleaming universe?  
-> It froze in the heart of God,  
-> Froze on a spear of light.
+> I looked up at Antares
 >
->   
-> Leonard Cohen
-
-![](/uploads/sun-thumb.png)
+> but Antares did nothing to acknowledge me. 
+>
+> I looked down at the Dandelion 
+>
+> and it could care less. 
+>
+> I walked toward a tree and scared half a dozen birds. 
+>
+> I stepped on ants, scared a harmless snake and 
+>
+> a gecko left left its tail behind, 
+>
+> for me to find
+>
+> nature is simply a brief diversion from 
+>
+> what lies beyond this precious moment.
