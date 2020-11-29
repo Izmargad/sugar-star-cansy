@@ -12,7 +12,7 @@ more_images: []
 >
 > but Antares did nothing to acknowledge me.
 >
-> I looked down at the Dandelion
+> I looked down at the dandelion
 >
 > and it could care less.
 >
