@@ -1,5 +1,5 @@
 ---
-title: A Bried Diversion
+title: A Brief Diversion
 subtitle: ''
 date: 2020-11-27T22:00:00+00:00
 tags:
