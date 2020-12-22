@@ -1,23 +1,24 @@
 ---
 title: The Great Conjunction
-subtitle: Will you be famous for avoiding the comets or nebulae?
-date: 2020-10-28T22:00:00.000+00:00
+subtitle: '"It''s a pity she won''t live, but then again who does" - Bladerunner'
+date: 2020-12-21T22:00:00+00:00
 tags:
-- running
-- messier
+- conjunction
 bigimg:
-- src: "/uploads/m33_20201026_233548_0_7bnc5p_l.png"
+- src: ''
   desc: ''
 more_images:
-- "/uploads/m71_20201026_212250_0_5ocyrt_lrgb.png"
-- "/uploads/m16_20200928_203744_0_y3wqog_lrgb.png"
-draft: true
+- ''
+- "/uploads/201010m202600_20201221_191514_0_undkze_l.png"
+- ''
 
 ---
-I started running about 10 years ago and have completed a couple of half-marathons, but sitting on my behind for a living and crafting software has not served me well to complete a full marathon, yet. There is a different marathon that I will soon be taking part in however, which is the Messier Marathon. I will be rewarded for sitting on my butt while I marvel at the wonders of a catalog compiled by comet hunter, Charles Messier and first published in 1774.
+We look up at the skies because someone told us to, if you don’t look now, you’re never going to see this again ever. Not in your lifetime. It is something I find absurd. Probably since 1986 when my mom woke me to behold a feint smudge of something she said, was Hailey’s comet. It is not only the comet I remember from 1986, I remember the moment with my mom, and I remember her. That moment will never be there again, like all the moments we collect with the people and plants and animals we share this planet with.
 
-The Messier objects are not evenly distributed throughout the sky. But astronomer Don Machholz worked out the observing order, or search sequence, based upon the commonly used **_Atlas of the Heavens_**, star atlas. I am not quite ready and it won't be possible until March / April 2021 to take part in the Messier Marathon and observe all 110 wonders in a single sitting.
+You see, we are able to make accurate predictions where it concerns which bodies in the heavens will be in conjunction with which. There is a frenzy of interest and activity as everyone is keen to observe the closeness as Saturn and Jupiter are brushing past each other, cheeks touching, while the rest of the universe it seems hurtling further and further apart.
 
-In the meanwhile, do enjoy the images of nebulae I capture on SLOOH.
+We do not know if the person on the street, in the shop, the neighbour, the sister or brother that we assume will be there, will be there next year. We are somewhat intelligent but we are so vulnerable. We do not know how long we have, who does. We cannot predict when we will be as close as we are today. For all we know today will be the closest we will ever be or the last words we ever exchange.
 
-PS: Did I mention Charles Messier became famous for the very thing he tried to avoid? In an effort to find comets he catalogued the foggy bits and bobs that we now know and love as the wonders in the Messier Catalog.
+Let’s wake each other up and pretend that what we see when I look into your eyes today I will never see again. Because, this moment, this very moment in which you read this sentence, pause and stop. This will never come again, you will not experience this again. Every second is your conjunction to behold and to cherish the bonds you have with people, we can be close while we socially distance perhaps like Jupiter and Saturn.
+
+Let’s cherish the present, because this moment is all we will ever have.
