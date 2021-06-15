@@ -6,7 +6,7 @@ date: 2021-06-14T22:00:00+00:00
 tags:
 - slooh
 - orion
-image: "/uploads/bellatrix.jpg"
+image: ''
 
 ---
 Tonight we gather to sing scientific songs of praise to Orion and all hunters.
