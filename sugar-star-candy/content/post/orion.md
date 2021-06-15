@@ -6,7 +6,6 @@ first_paragraph: 'A Praise Poem in celebration of Bellatrix and all the women an
 '
 gallery_of_images:
 - "/uploads/bellatrix.jpg"
-draft: true
 
 ---
 Tonight we gather to sing scientific songs of praise to Orion and all hunters.
