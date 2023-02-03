@@ -20,6 +20,12 @@ For Clint.
 In his "Thoughts on Various Subjects" from 1706, Jonathan Swift wrote:
 
 > "Old men and comets have been reverenced for the same reason: their long beards and pretences to foretell events".  
+
+{{< gallery caption-effect="fade" >}}
+{{< figure thumb="-thumb" link="/uploads/green-comet.png" caption="Green Comet" >}}
+{{< figure thumb="-thumb" link="/uploads/IMG_6452.png" caption="Slooh art streaks" >}}
+{{< figure thumb="-thumb" link="/uploads/IMG_6456.png" caption="ZTF" >}}
+{{< /gallery >}}
   
 Let's face it. the true fortune tellers are those scientists who can predict when a cataclysm can be expected. We have data scientists, and powerful algorithms and machine learning to create rocket ships for our minds, as opposed to our classic computers, who Steve Jobs compared to Bicycles of the Mind.  
   
