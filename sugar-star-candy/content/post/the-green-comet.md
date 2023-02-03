@@ -37,7 +37,8 @@ You see, I work in IT, and there is blood in the virtual streets as Google, Amaz
   
 I was reminded by a colleague whose role has been made redundant "to always look up", when in a moment of gloom and cynicism I remarked "I have not had time for my star gazing hobby . . . "
   
-I now choose to look up, not expecting a bright future, but facing the beauty and the horror. It will always be meted in equal measure, it is never as simple as foretelling of great things, or disasters. It is up to us, always up to how we choose to view the comets.
+I now choose to look up, not expecting a bright future, but facing the beauty and the horror. It will always be meted in equal measure, it is never as simple as foretelling of great things, or disasters. It is up to us, to choose how we interpret the signs and the comets.
 
+## Links
 - More about [Green Comet C/2022 E3 (ZTF)](https://www.space.com/comet-c2022-e3-ztf-closest-approach-feb-1) on Space.com.
 - More about [Jonathan Swift](https://en.wikipedia.org/wiki/Jonathan_Swift) on Wikipedia.
