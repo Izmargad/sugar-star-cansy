@@ -1,7 +1,7 @@
 ---
-title: The Green Comet
+title: Candyfloss and Oranges
 subtitle: Once in a lifetime
-date: 2023-02-03
+date: 2020-02-03
 tags:
 - Comet ZTF
 - messier

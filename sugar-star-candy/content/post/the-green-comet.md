@@ -1,9 +1,10 @@
 ---
 title: The Green Comet
 subtitle: Looking Up while Looking Down
-
 date: 2023-02-03
 tags:
+- comet 2022 E3
+- astronomy
 - messier
 - nebulae
 gallery_of_images:
