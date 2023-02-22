@@ -1,7 +1,7 @@
 ---
 title: I am nothing special
 subtitle: In fact I am a bit of a bore
-date: 2023-02-23
+date: 2023-02-23T22:00:00.000+00:00
 tags:
 - Artificial Intelligence
 - Artyficial Intelligence
