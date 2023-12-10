@@ -7,7 +7,7 @@ tags:
 
 ---
 
-Mein Damen und Herren.
+Meine Damen und Herren.
 
 You say it is an undecidable algorithm
 
