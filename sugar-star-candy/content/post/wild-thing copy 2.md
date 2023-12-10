@@ -6,83 +6,22 @@ tags:
 - poetry
 
 ---
-Meine Damen und Herren.
-
-You say it is an undecidable algorithm
-
-My desire
-
-My love and yearning 
-
-(for you) (for love)
-
-Too hard to solve
-
-time, dear, undecidable
-
-unprovable your 
-
-access to my heart
-
-mine yours. Never accessed.
-
-Incompleteness without you -- it poisons else, starves.
-
-P ≠ NP
-
-Our love just never looked possible
-
-I do not have enough information
-
-How can I prove even with a White Flower 
-
-and uneven petals
-
-She loves me, 
-
-so it begins.
-
-But never even.
-
-Keep trying to prove this, until all
-
-beauty dissolves.
-
-## For Herren von Neuman und Gödel
-
-Sehr geehrter Herr, oder geehrte Dame,
-
-Sie sagen, es ist ein unentscheidbarer Algorithmus
-
-Mein Verlangen
-
-Meine Liebe und Sehnsucht
-
-(nach dir) (nach Liebe).
-
-Schwer is es ja, zu lösen
-
-Zeit, Liebste, unentscheidbar
-
-unbeweisbar deine
-
-Zugang zu meinem Herzen
-
-mein deins. Niemals erreicht.
 
 Unvollständigkeit ohne dich – es vergiftet sonst, verhungert.
 
-P ≠ NP
+P ≠ NP, doch.
 
 Unsere Liebe schien einfach nie möglich
 
-Ich weiss fast nichts Informationen sind ja knapp
+Ich weiss ja fast nichts.
+
+Informationen sind ja knapp. Genaus so wie Liebe.
 
 Wie kann ich beweisen, selbst mit einer Weißen Blume
 
-und ungleichen Blütenblättern
+und damals mit ungleichen Blütenblättern
 
-Sie liebt mich,
+"Sie liebt mich",
 
 so beginnt es.
 
