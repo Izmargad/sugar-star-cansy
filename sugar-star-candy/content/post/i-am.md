@@ -33,6 +33,7 @@ I am the immovable mind that which takes care
 and hushes and consoles the noise of trampling thought explosions.
 
 Inside.
+
 I am the mind that sees in a mirror
 
 that which smiles back, with sadness and recognition.
