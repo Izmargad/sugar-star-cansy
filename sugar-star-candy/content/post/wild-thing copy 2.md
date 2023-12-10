@@ -1,9 +1,9 @@
 ---
 title: Dog Daisy
 subtitle: P ≠ NP
-date: 2020-11-05T22:00:00+00:00
+date: 2023-11-05T22:00:00+00:00
 tags:
-- apollo
+- poetry
 
 ---
 Meine Damen und Herren.
